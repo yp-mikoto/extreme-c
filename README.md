@@ -1,4 +1,4 @@
-[index](./index.jpeg)
+![index](./index.jpeg)
 
 # Index
 
